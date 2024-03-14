@@ -46,7 +46,6 @@ buildwith\.com
 .*\.fb\.com
 .*\.work\.me
 .*\.fbsbx\.com
-.*\.w\.m\.me
 .*\.m\.me
 .*\.instagram\.com
 .*\.linkedin\.com
