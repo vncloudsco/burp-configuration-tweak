@@ -41,6 +41,13 @@ buildwith\.com
 .*\.vimeo\.com
 .*\.vimeocdn\.com
 .*\.facebook\.com
+.*\.workplace\.com
+.*\.fbcdn\.com
+.*\.fb\.com
+.*\.work\.me
+.*\.fbsbx\.com
+.*\.w\.m\.me
+.*\.m\.me
 .*\.instagram\.com
 .*\.linkedin\.com
 .*\.twitter\.com
